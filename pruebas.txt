@@ -1,3 +1,4 @@
 Esta es la primer prueba para hacer un commit en Git
 
 Aqui reviso como funciona el comando diff que realza las direferencias
+Usamos git como user root
